@@ -1,6 +1,7 @@
 # Vue 3 - Realtime Chat App
 
-Live Demo: [Link](https://vue-chat-app-27d21.web.app/)
+Source code yang udah di build
+Live Demo: [Link](https://vital-cedar-355503.web.app/)
 
 ## Project setup
 
